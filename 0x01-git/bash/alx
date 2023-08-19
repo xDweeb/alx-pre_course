@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ALX"
+git commit -m "Hot fix"
